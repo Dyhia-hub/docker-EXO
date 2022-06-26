@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="137.74.61.113" id="0f2f78cb-2dce-40b1-869c-034501aa03f9" port="22" customName="VM-EXO" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="VM-EXO" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
